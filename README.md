@@ -1,2 +1,2 @@
 # SpringRest
-Sample Spring Rest Service
+Sample Spring Rest Service.
